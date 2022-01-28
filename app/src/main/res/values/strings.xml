@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fabric Size Measure</string>
+    <string-array name="unit_choices">
+        <item>CM</item>
+        <item>INCH</item>
+    </string-array>
+
+    <string name="forget_button"><u>Forget Password</u></string>
+</resources>
